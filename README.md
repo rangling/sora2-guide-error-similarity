@@ -133,4 +133,5 @@
 - <a href="https://github.com/rangling/sora2-invite-guide" target="_blank" rel="noopener noreferrer">Sora2 邀请码获取指南（sora2 邀请码购买 / sora2 邀请码分享）</a>  
 - <a href="https://github.com/rangling/sora2-prompt-guide" target="_blank" rel="noopener noreferrer">Sora2 使用教程与提示词大全（Sora 2 Prompt 教程 / 新手指南 / AI 视频生成技巧）</a>  
 - <a href="https://github.com/rangling/chatgpt-plus-daichong-hezu" target="_blank" rel="noopener noreferrer">ChatGPT Plus代充与合租教程 | 风云AI ChatGPT Plus充值、合租、月卡开通指南（支持支付宝/微信）</a>
+- <a href="https://github.com/rangling/sora2-guide-error-similarity" target="_blank" rel="noopener noreferrer">📦本文仓库（GitHub）</a>
 
